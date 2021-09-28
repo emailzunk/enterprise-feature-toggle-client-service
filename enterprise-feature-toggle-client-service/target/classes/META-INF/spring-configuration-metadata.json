@@ -1,0 +1,12 @@
+{
+  "groups": [
+    {
+      "name": "ff4j.datasource",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.eftc.config.DBConfig",
+      "sourceMethod": "ff4jDataSource()"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
